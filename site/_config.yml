@@ -11,7 +11,7 @@ description: 'Can we use web technologies to develop medical apps?' # write a ni
 baseurl: '' # the subpath of your site, e.g. /blog
 url: '' # the base hostname & protocol for your site http://www.example.com
 # google_analytics: 'UA-XXXXXX-X'
-twitter_username: 'twitter_username'
+twitter_username: 'asthma_track'
 
 # Build settings
 markdown: kramdown
